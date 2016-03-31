@@ -1,0 +1,1 @@
+CREATE TABLE football (Team City TEXT, Team Name TEXT, Team Mascot TEXT, W INTEGER, L INTEGER)
